@@ -15,3 +15,7 @@ Needs Android 7.0 or newer. No ads, no in-app purchases, no data collected ([pri
 Feedback and bugs: tom.beech@coffeecupsolutions.com
 
 <img src="img/screenshot.png" width="300">
+
+## Privacy
+
+Ticket Tycoon collects no data at all: [privacy policy](PRIVACY.md).
